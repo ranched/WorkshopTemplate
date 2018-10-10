@@ -2,10 +2,6 @@
 
 This Oracle Public Cloud Low Code Application Development workshop will walk you through the creation of a web and mobile application, during which you will create and customize an application with visual development tools.
 
-![](images/100/youtube.png)
-
-<a href="<add link>" target="video">Workshop Overview</a>
-
 ### **Step 1**: Acquire an Oracle Cloud Trial Account
 
 - Bookmark this page for future reference.
